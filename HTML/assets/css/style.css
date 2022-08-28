@@ -10,6 +10,7 @@ Estilos da pagina index.html
     display:flex;
     flex-flow: row;
     justify-content: center;
+    align-items: center;
 }
 
 .iframe{
@@ -33,7 +34,7 @@ Estilos da pagina index.html
     color:rgba(97, 7, 243, 0.555);
 }
 .p-30{
-    padding: 40px;
+    padding: 10px;
 }
 
 .br-50{
@@ -42,7 +43,12 @@ Estilos da pagina index.html
     max-height:1550px;
     width: auto;
     height: auto;
-    padding: 40px;
+    padding: 10px;
+}
+
+.teste1{
+font-size: 20px;
+padding: 10px;
 }
 
 /* 
