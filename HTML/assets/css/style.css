@@ -54,3 +54,30 @@ padding: 10px;
 /* 
 Estilos da pagina contato.html
 */
+.ladosc{
+    display:flex;
+    flex-flow: row;
+    justify-content:center;
+    align-items: center;
+    padding: 10px;
+
+}
+.iframecontato{
+    padding: 10px;
+    border:1px solid rgba(147, 147, 148, 0.356);
+    margin-left: 15px;
+}
+.contact{
+    padding: 20px;
+}
+
+.tituloContact{
+    text-align: center;
+}
+.info{
+    text-align:right;
+}
+.contactReal{
+    text-align:center;
+    padding: 30px;
+}
